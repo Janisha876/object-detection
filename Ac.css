@@ -1,0 +1,22 @@
+body{
+    background-position: center;
+    background-size: cover;
+}
+.heading{
+    width: 80%;
+    margin: 0px;
+}
+#back{
+    float: right;
+
+}
+#status_Ac,#numberAc{
+ font-size: 20px;
+ margin-top: 40px;
+}
+canvas{
+    box-shadow: 5px 5px 5px gray;
+    border-radius: 10px;
+    margin-top: 60px;
+    background-color: white;
+}
